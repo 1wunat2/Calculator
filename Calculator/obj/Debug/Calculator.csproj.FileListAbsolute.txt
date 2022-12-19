@@ -1,0 +1,14 @@
+C:\Users\nwu10\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nwu10\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nwu10\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nwu10\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nwu10\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nwu10\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nwu10\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\nwu10\Documents\GitHub\Personal\c#\Calculator\Calculator\obj\Debug\Calculator.pdb
